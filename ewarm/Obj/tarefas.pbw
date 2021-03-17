@@ -64236,20 +64236,6 @@
     "scope": null
   },
   {
-    "ID": "c:@thread2_id",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "thread2_id",
-    "location": {
-      "column": "26",
-      "line": "5",
-      "path": "D:\\WorkSpace\\Embarcados\\Projects\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
-    },
-    "name": "thread2_id",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
     "ID": "c:@S@leds",
     "What": "Struct",
     "defdec": "Def",
@@ -64322,7 +64308,7 @@
     "scope": null
   },
   {
-    "ID": "c:tarefas.c@271@F@thread1@state",
+    "ID": "c:tarefas.c@259@F@thread1@state",
     "What": "Variable",
     "defdec": "Def",
     "display": "state",
@@ -64336,7 +64322,7 @@
     "scope": null
   },
   {
-    "ID": "c:tarefas.c@293@F@thread1@led_activated",
+    "ID": "c:tarefas.c@281@F@thread1@led_activated",
     "What": "Variable",
     "defdec": "Def",
     "display": "led_activated",
@@ -64350,13 +64336,27 @@
     "scope": null
   },
   {
+    "ID": "c:tarefas.c@336@F@thread1@led_id",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "led_id",
+    "location": {
+      "column": "11",
+      "line": "17",
+      "path": "D:\\WorkSpace\\Embarcados\\Projects\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
+    },
+    "name": "led_id",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
     "ID": "c:@F@main",
     "What": "Function",
     "defdec": "Def",
     "display": "void main(void)",
     "location": {
       "column": "6",
-      "line": "33",
+      "line": "56",
       "path": "D:\\WorkSpace\\Embarcados\\Projects\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
     },
     "name": "main",
@@ -64364,13 +64364,13 @@
     "scope": null
   },
   {
-    "ID": "c:tarefas.c@734@F@main@led01",
+    "ID": "c:tarefas.c@1216@F@main@led01",
     "What": "Variable",
     "defdec": "Def",
     "display": "led01",
     "location": {
       "column": "15",
-      "line": "37",
+      "line": "60",
       "path": "D:\\WorkSpace\\Embarcados\\Projects\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
     },
     "name": "led01",
@@ -64378,16 +64378,44 @@
     "scope": null
   },
   {
-    "ID": "c:tarefas.c@756@F@main@led02",
+    "ID": "c:tarefas.c@1216@F@main@led02",
     "What": "Variable",
-    "defdec": "Def",
+    "defdec": "Dec",
     "display": "led02",
     "location": {
-      "column": "15",
-      "line": "38",
+      "column": "22",
+      "line": "60",
       "path": "D:\\WorkSpace\\Embarcados\\Projects\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
     },
     "name": "led02",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:tarefas.c@1216@F@main@led03",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "led03",
+    "location": {
+      "column": "29",
+      "line": "60",
+      "path": "D:\\WorkSpace\\Embarcados\\Projects\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
+    },
+    "name": "led03",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:tarefas.c@1216@F@main@led04",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "led04",
+    "location": {
+      "column": "36",
+      "line": "60",
+      "path": "D:\\WorkSpace\\Embarcados\\Projects\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
+    },
+    "name": "led04",
     "origin": "project_file",
     "scope": null
   },
